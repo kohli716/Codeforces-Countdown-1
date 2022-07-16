@@ -1,21 +1,8 @@
 <div align="center">
 <h1> Codeforces Timer 
-  <p><br>
-  <img src='./images/cftimer.png' width="25%" height="25%"/>   
-  <br>
-    <a href="" alt="Codeagni">
-      <img src="https://img.shields.io/badge/Made%20by-Codeagni-orange?style=for-the-badge" />
-    </a>
-  </p>
 </h1>
 A Google Chrome Extension to add a timer to practice speed problem solving on Codeforces.
 </div>
-<br>
-<p align="center">
-    <a href="https://github.com/codeagni/codeforces-timer/blob/master/LICENSE" alt="License MIT">
-      <img src="https://img.shields.io/github/license/codeagni/codeforces-timer?color=success" />
-    </a>
-</p>
 <br>
 
 ## Preview
@@ -55,11 +42,3 @@ It can be disabled from Settings -> Extensions page.
 2. Follow installation, to start playing around.
 3. Start developing !
 
-## Contributing
-
-1. Read the <a href="https://github.com/codeagni/mern-starter/blob/master/CODE_OF_CONDUCT.md" alt="@babel/preset-react">CODE OF CONDUCT</a>
-2. Fork the repo
-3. Create your feature branch (`git checkout -b feature/fooBar`)
-4. Commit your changes (`git commit -am 'Add some fooBar'`)
-5. Push to the branch (`git push origin feature/fooBar`)
-6. Create a new Pull Request
